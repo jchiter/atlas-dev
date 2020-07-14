@@ -1,0 +1,1933 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: homelist\n"
+"POT-Creation-Date: 2018-04-12 10:15+0300\n"
+"PO-Revision-Date: 2017-10-13 10:57+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n;_x;_ex;_nx;esc_attr__;"
+"esc_attr_e;esc_attr_x;esc_html__;esc_html_e;esc_html_x;_n_noop;_nx_noop\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../archive-agency.php:29 ../archive-agent.php:29 ../archive-property.php:63
+#: ../single-agency.php:13 ../single-agent.php:13 ../single-property.php:13
+#: ../templates/archive-agency.php:36 ../templates/archive-agent.php:36
+#: ../templates/archive-property.php:60 ../templates/misc/transactions.php:68
+#: ../templates/single-agency.php:16 ../templates/single-agent.php:16
+#: ../templates/single-property.php:16 ../templates/submission/list.php:218
+#: ../templates/taxonomy-amenities.php:57
+#: ../templates/taxonomy-locations.php:40
+#: ../templates/taxonomy-materials.php:44
+#: ../templates/taxonomy-property_types.php:40
+#: ../templates/taxonomy-statuses.php:44
+msgid "Previous page"
+msgstr ""
+
+#: ../archive-agency.php:30 ../archive-agent.php:30 ../archive-property.php:64
+#: ../single-agency.php:14 ../single-agent.php:14 ../single-property.php:14
+#: ../templates/archive-agency.php:37 ../templates/archive-agent.php:37
+#: ../templates/archive-property.php:61 ../templates/misc/transactions.php:69
+#: ../templates/single-agency.php:17 ../templates/single-agent.php:17
+#: ../templates/single-property.php:17 ../templates/submission/list.php:219
+#: ../templates/taxonomy-amenities.php:58
+#: ../templates/taxonomy-locations.php:41
+#: ../templates/taxonomy-materials.php:45
+#: ../templates/taxonomy-property_types.php:41
+#: ../templates/taxonomy-statuses.php:45
+msgid "Next page"
+msgstr ""
+
+#: ../archive-agency.php:31 ../archive-agent.php:31 ../archive-property.php:65
+#: ../single-agency.php:15 ../single-agent.php:15 ../single-property.php:15
+#: ../templates/archive-agency.php:38 ../templates/archive-agent.php:38
+#: ../templates/archive-property.php:62 ../templates/content-agency.php:107
+#: ../templates/content-agent.php:93 ../templates/content-page.php:14
+#: ../templates/misc/transactions.php:70 ../templates/single-agency.php:18
+#: ../templates/single-agent.php:18 ../templates/single-property.php:18
+#: ../templates/submission/list.php:220 ../templates/taxonomy-amenities.php:59
+#: ../templates/taxonomy-locations.php:42
+#: ../templates/taxonomy-materials.php:46
+#: ../templates/taxonomy-property_types.php:42
+#: ../templates/taxonomy-statuses.php:46
+msgid "Page"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:393
+#: ../assets/libraries/class-tgm-plugin-activation.php:921
+#: ../assets/libraries/class-tgm-plugin-activation.php:2627
+#: ../assets/libraries/class-tgm-plugin-activation.php:3674
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:394
+#: ../assets/libraries/class-tgm-plugin-activation.php:3253
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:395
+#: ../assets/libraries/class-tgm-plugin-activation.php:3046
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:1028
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:1028
+#: ../assets/libraries/class-tgm-plugin-activation.php:1031
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:1031
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:1215
+#: ../assets/libraries/class-tgm-plugin-activation.php:3042
+msgid "and"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2076
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2367
+msgid "Required"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2370
+msgid "Recommended"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2386
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2389
+msgid "External Source"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2392
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2409
+msgid "Not Installed"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2413
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2415
+msgid "Active"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2421
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2424
+msgid "Requires Update"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2427
+msgid "Update recommended"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2436
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2482
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2486
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2490
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2494
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2576
+msgid "unknown"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2584
+msgid "Installed version:"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2592
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2604
+msgid "Available version:"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2627
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2641
+msgid "Plugin"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2642
+msgid "Source"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2643
+#: ../templates/properties/detail/section-overview.php:33
+msgid "Type"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2647
+msgid "Version"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2648
+#: ../templates/properties/detail/section-overview.php:56
+#: ../templates/widgets/filter-fields/status.php:5
+#: ../templates/widgets/filter-fields/status.php:13
+msgid "Status"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2697
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2702
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2708
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2778
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2811
+msgid "Install"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2817
+msgid "Update"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2820
+msgid "Activate"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2851
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2853
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2894
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:2896
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:3002
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:3028
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:3252
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:3592
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:3595
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:3601
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:3603
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:3603
+#: ../assets/libraries/class-tgm-plugin-activation.php:3611
+msgid "Show Details"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:3603
+#: ../assets/libraries/class-tgm-plugin-activation.php:3611
+msgid "Hide Details"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:3604
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:3606
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:3609
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:3611
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:3612
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../assets/libraries/class-tgm-plugin-activation.php:3614
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../comments.php:31
+#, php-format
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../comments.php:36
+#, php-format
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: ../comments.php:70
+msgid "Comments are closed."
+msgstr ""
+
+#: ../functions.php:50 ../functions.php:55 ../functions.php:60
+#: ../functions.php:65 ../functions.php:70 ../functions.php:75
+msgid "on"
+msgstr ""
+
+#: ../functions.php:259 ../functions.php:269
+msgid "Primary"
+msgstr ""
+
+#: ../functions.php:270
+msgid "Content Fullwidth"
+msgstr ""
+
+#: ../functions.php:271
+msgid "Footer First"
+msgstr ""
+
+#: ../functions.php:272
+msgid "Footer Second"
+msgstr ""
+
+#: ../functions.php:273
+msgid "Footer Third"
+msgstr ""
+
+#: ../functions.php:274
+msgid "Footer Fourth"
+msgstr ""
+
+#: ../functions.php:275
+msgid "Footer Bottom Left"
+msgstr ""
+
+#: ../functions.php:276
+msgid "Footer Bottom Right"
+msgstr ""
+
+#: ../functions.php:303
+msgid "Read more"
+msgstr ""
+
+#: ../functions.php:315
+msgid "Homelist General"
+msgstr ""
+
+#: ../functions.php:319
+msgid "Logo"
+msgstr ""
+
+#: ../functions.php:322
+msgid ""
+"Logo displayed in header. By default it has some opacity added by CSS which "
+"will change after hover."
+msgstr ""
+
+#: ../functions.php:390
+msgid " "
+msgstr ""
+
+#: ../functions.php:393
+msgid "Tags"
+msgstr ""
+
+#: ../functions.php:417
+msgid "Delicius"
+msgstr ""
+
+#: ../functions.php:418
+msgid "Deviant Art"
+msgstr ""
+
+#: ../functions.php:419
+msgid "Digg"
+msgstr ""
+
+#: ../functions.php:420
+msgid "Twitter"
+msgstr ""
+
+#: ../functions.php:421
+msgid "Facebook"
+msgstr ""
+
+#: ../functions.php:422
+msgid "Flickr"
+msgstr ""
+
+#: ../functions.php:423
+msgid "Google Plus"
+msgstr ""
+
+#: ../functions.php:424
+msgid "Linkedin"
+msgstr ""
+
+#: ../functions.php:425
+msgid "Picasa"
+msgstr ""
+
+#: ../functions.php:426
+msgid "Pinterest"
+msgstr ""
+
+#: ../functions.php:427
+msgid "Rss"
+msgstr ""
+
+#: ../functions.php:428
+msgid "Skype"
+msgstr ""
+
+#: ../functions.php:429
+msgid "Stumble Upon"
+msgstr ""
+
+#: ../functions.php:430
+msgid "Tumblr"
+msgstr ""
+
+#: ../functions.php:431
+msgid "Vimeo"
+msgstr ""
+
+#: ../functions.php:432
+msgid "Youtube"
+msgstr ""
+
+#: ../functions.php:433
+msgid "Instagram"
+msgstr ""
+
+#: ../functions.php:485
+msgid "Home Page"
+msgstr ""
+
+#: ../functions.php:485 ../functions.php:561
+msgid "Blog"
+msgstr ""
+
+#: ../functions.php:487
+msgid "Search"
+msgstr ""
+
+#: ../functions.php:489
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: ../functions.php:491
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: ../functions.php:493
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: ../functions.php:495
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: ../functions.php:495
+msgid "Y"
+msgstr ""
+
+#: ../functions.php:497
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: ../functions.php:497
+msgid "F Y"
+msgstr ""
+
+#: ../functions.php:499
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: ../functions.php:499
+msgid "F j, Y"
+msgstr ""
+
+#: ../functions.php:501
+msgid "Asides"
+msgstr ""
+
+#: ../functions.php:503
+msgid "Galleries"
+msgstr ""
+
+#: ../functions.php:505
+msgid "Images"
+msgstr ""
+
+#: ../functions.php:507
+msgid "Videos"
+msgstr ""
+
+#: ../functions.php:509
+msgid "Quotes"
+msgstr ""
+
+#: ../functions.php:511
+msgid "Links"
+msgstr ""
+
+#: ../functions.php:513
+msgid "Statuses"
+msgstr ""
+
+#: ../functions.php:515
+msgid "Audio"
+msgstr ""
+
+#: ../functions.php:517
+msgid "Chats"
+msgstr ""
+
+#: ../functions.php:522
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#: ../functions.php:527
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: ../functions.php:529 ../templates/misc/breadcrumb.php:47
+msgid "Page not found"
+msgstr ""
+
+#: ../functions.php:557 ../header.php:113 ../templates/misc/breadcrumb.php:3
+#: ../templates/misc/breadcrumb.php:6
+msgid "Home"
+msgstr ""
+
+#: ../functions.php:573
+msgid "Search Results for..."
+msgstr ""
+
+#: ../header.php:85
+msgid "Office Hour"
+msgstr ""
+
+#: ../header.php:106
+msgid "Toggle navigation"
+msgstr ""
+
+#: ../header.php:125
+msgid "Sign out"
+msgstr ""
+
+#: ../header.php:129
+msgid "Sign in"
+msgstr ""
+
+#: ../header.php:131
+msgid "Sign up"
+msgstr ""
+
+#: ../header.php:136
+msgid "Submit Property"
+msgstr ""
+
+#: ../inc/comments.php:9
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/comments.php:9
+msgid "(Edit)"
+msgstr ""
+
+#: ../inc/comments.php:20
+msgid " at "
+msgstr ""
+
+#: ../inc/comments.php:20 ../templates/submission/list.php:197
+#: ../templates/submission/list.php:198
+msgid "Edit"
+msgstr ""
+
+#: ../inc/comments.php:20 ../templates/misc/comment.php:19
+msgid "Reply"
+msgstr ""
+
+#: ../inc/comments.php:38 ../templates/mails/enquire.php:8
+#: ../templates/widgets/enquire.php:31
+msgid "Name"
+msgstr ""
+
+#: ../inc/comments.php:39
+msgid "Your name : "
+msgstr ""
+
+#: ../inc/comments.php:40
+msgid "Your email : "
+msgstr ""
+
+#: ../inc/comments.php:41
+msgid "Your E-Mail"
+msgstr ""
+
+#: ../inc/comments.php:51
+msgid "Comment"
+msgstr ""
+
+#: ../inc/comments.php:52
+msgid "Your comment : "
+msgstr ""
+
+#: ../inc/wp_bootstrap_pagination.php:11
+msgid "Previous"
+msgstr ""
+
+#: ../inc/wp_bootstrap_pagination.php:12
+msgid "Next"
+msgstr ""
+
+#: ../inc/wp_bootstrap_pagination.php:57
+msgid "First"
+msgstr ""
+
+#: ../inc/wp_bootstrap_pagination.php:60
+msgid "previous"
+msgstr ""
+
+#: ../inc/wp_bootstrap_pagination.php:75
+msgid "next"
+msgstr ""
+
+#: ../inc/wp_bootstrap_pagination.php:79
+msgid "Last"
+msgstr ""
+
+#: ../searchform.php:3
+msgid "Search..."
+msgstr ""
+
+#: ../single.php:26
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">"
+"%title</span>"
+msgstr ""
+
+#: ../template-contact.php:27
+msgid "Our Address"
+msgstr ""
+
+#: ../template-contact.php:42
+msgid "Phone &amp; Email"
+msgstr ""
+
+#: ../template-contact.php:58
+msgid "Stay In Touch"
+msgstr ""
+
+#: ../template-contact.php:59
+msgid "Also find us on social Media"
+msgstr ""
+
+#: ../template-contact.php:81
+msgid "What is your question about?"
+msgstr ""
+
+#: ../template-contact.php:88
+msgid "Sorry, no posts were found"
+msgstr ""
+
+#: ../template-contact.php:97
+msgid "Have You Any Question About Us?"
+msgstr ""
+
+#: ../template-contact.php:99
+msgid ""
+"Any kind of business solution and consultion don't hesitate to contact with "
+"us for imiditate customer support. We are love to hear from you"
+msgstr ""
+
+#: ../template-contact.php:100
+msgid "Office Hours:"
+msgstr ""
+
+#: ../template-contact.php:100
+msgid "We are alwyes open excpet Saturday and Sunday from 10:00am to 8:00pm"
+msgstr ""
+
+#: ../template-login-box.php:13
+msgid "Welcome Back"
+msgstr ""
+
+#: ../template-login-box.php:14
+msgid "Don't have an account?"
+msgstr ""
+
+#: ../template-login-box.php:17
+msgid "Username:"
+msgstr ""
+
+#: ../template-login-box.php:18
+msgid "Password:"
+msgstr ""
+
+#: ../template-register-box.php:13
+msgid "Create Your Account"
+msgstr ""
+
+#: ../template-register-box.php:14
+msgid "Already have an account?"
+msgstr ""
+
+#: ../templates/agencies/box.php:23 ../templates/agents/row.php:18
+msgid "Send E-mail"
+msgstr ""
+
+#: ../templates/agencies/box.php:24 ../templates/agencies/row.php:20
+#: ../templates/agents/row.php:19 ../templates/sliders/row.php:50
+msgid "View Detail"
+msgstr ""
+
+#: ../templates/agencies/row.php:18
+msgid "Send Email"
+msgstr ""
+
+#: ../templates/agencies/row.php:18 ../templates/agents/row.php:18
+#: ../templates/mails/enquire.php:14 ../templates/misc/profile-form.php:19
+#: ../templates/misc/register.php:16 ../templates/widgets/enquire.php:35
+msgid "E-mail"
+msgstr ""
+
+#: ../templates/agencies/row.php:20 ../templates/agents/row.php:19
+msgid "View"
+msgstr ""
+
+#: ../templates/agencies/row.php:32
+msgid "agents"
+msgstr ""
+
+#: ../templates/agencies/row.php:36 ../templates/agents/row.php:30
+msgid "properties"
+msgstr ""
+
+#: ../templates/agencies/row.php:47 ../templates/agents/row.php:45
+msgid "Contact Information"
+msgstr ""
+
+#: ../templates/agencies/row.php:52 ../templates/agents/row.php:50
+#: ../templates/content-agency.php:22 ../templates/content-agent.php:24
+msgid "Email"
+msgstr ""
+
+#: ../templates/agencies/row.php:61 ../templates/agents/row.php:59
+#: ../templates/content-agency.php:27 ../templates/content-agent.php:29
+msgid "Web"
+msgstr ""
+
+#: ../templates/agencies/row.php:70 ../templates/agents/row.php:68
+#: ../templates/content-agency.php:32 ../templates/content-agent.php:34
+#: ../templates/mails/enquire.php:20 ../templates/misc/profile-form.php:34
+#: ../templates/misc/register.php:34 ../templates/widgets/enquire.php:39
+msgid "Phone"
+msgstr ""
+
+#: ../templates/agencies/row.php:74 ../templates/agents/row.php:72
+#: ../templates/content-agency.php:37 ../templates/content-agent.php:39
+msgid "Address"
+msgstr ""
+
+#: ../templates/agents/row.php:33
+msgid "sales"
+msgstr ""
+
+#: ../templates/content-agency.php:54 ../templates/content-agent.php:56
+#: ../templates/properties/detail/section-description.php:4
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: ../templates/content-agency.php:63
+#: ../templates/properties/detail/section-overview.php:61
+#: ../templates/widgets/filter-fields/location.php:6
+#: ../templates/widgets/filter-fields/location.php:12
+#: ../templates/widgets/filter-fields/location.php:62
+#: ../templates/widgets/filter-fields/location.php:68
+msgid "Location"
+msgstr ""
+
+#: ../templates/content-agency.php:79
+msgid "Representatives"
+msgstr ""
+
+#: ../templates/content-agency.php:103 ../templates/content-agent.php:89
+#: ../templates/content-page.php:10 ../templates/content.php:43
+msgid "Pages:"
+msgstr ""
+
+#: ../templates/content-agent.php:64
+msgid "Properties"
+msgstr ""
+
+#: ../templates/content-none.php:14
+msgid "404"
+msgstr ""
+
+#: ../templates/content-none.php:16
+msgid "Nothing Found"
+msgstr ""
+
+#: ../templates/content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../templates/content-none.php:27
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../templates/content-none.php:32
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../templates/content-none.php:34
+msgid "Back To Homepage"
+msgstr ""
+
+#: ../templates/content-property.php:19
+msgid "For"
+msgstr ""
+
+#: ../templates/content-property.php:32
+msgid "Add to favorites"
+msgstr ""
+
+#: ../templates/content-property.php:33
+msgid "Next property"
+msgstr ""
+
+#: ../templates/content-property.php:50
+#: ../templates/properties/detail/section-overview.php:91
+#: ../templates/properties/row.php:34
+#: ../templates/widgets/filter-fields/rooms.php:6
+msgid "Rooms"
+msgstr ""
+
+#: ../templates/content-property.php:54 ../templates/properties/box.php:117
+#: ../templates/properties/grid.php:72 ../templates/submission/list.php:101
+msgid "Bedrooms"
+msgstr ""
+
+#: ../templates/content-property.php:58
+msgid "Bathrooms"
+msgstr ""
+
+#: ../templates/content-property.php:62
+#: ../templates/properties/detail/section-overview.php:106
+#: ../templates/properties/row.php:35 ../templates/sliders/row.php:46
+#: ../templates/widgets/filter-fields/garages.php:6
+msgid "Garages"
+msgstr ""
+
+#: ../templates/content-property.php:70
+msgid "Back to"
+msgstr ""
+
+#: ../templates/content.php:38
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../templates/mails/enquire.php:27
+msgid "URL"
+msgstr ""
+
+#: ../templates/misc/breadcrumb.php:54 ../templates/misc/breadcrumb.php:56
+#: ../templates/misc/breadcrumb.php:58
+msgid "Archive for"
+msgstr ""
+
+#: ../templates/misc/breadcrumb.php:60
+msgid "Author Archive"
+msgstr ""
+
+#: ../templates/misc/breadcrumb.php:62
+msgid "Blog Archives"
+msgstr ""
+
+#: ../templates/misc/breadcrumb.php:64
+msgid "Search Results"
+msgstr ""
+
+#: ../templates/misc/comment.php:30
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../templates/misc/google-map-infowindow.php:31
+msgid "Area"
+msgstr ""
+
+#: ../templates/misc/google-map-infowindow.php:39
+#: ../templates/properties/detail/section-overview.php:96
+#: ../templates/widgets/filter-fields/beds.php:5
+msgid "Beds"
+msgstr ""
+
+#: ../templates/misc/google-map-infowindow.php:47
+#: ../templates/properties/detail/section-overview.php:101
+#: ../templates/widgets/filter-fields/baths.php:5
+msgid "Baths"
+msgstr ""
+
+#: ../templates/misc/login.php:9 ../templates/misc/register.php:10
+msgid "Username"
+msgstr ""
+
+#: ../templates/misc/login.php:10
+msgid "Please enter username"
+msgstr ""
+
+#: ../templates/misc/login.php:15 ../templates/misc/register.php:40
+msgid "Password"
+msgstr ""
+
+#: ../templates/misc/login.php:16
+msgid "Please enter password"
+msgstr ""
+
+#: ../templates/misc/login.php:20
+msgid "Sign in to your account"
+msgstr ""
+
+#: ../templates/misc/not-allowed.php:8
+msgid "You are not allowed to access this page."
+msgstr ""
+
+#: ../templates/misc/password-form.php:9
+msgid "Old password"
+msgstr ""
+
+#: ../templates/misc/password-form.php:14
+msgid "New password"
+msgstr ""
+
+#: ../templates/misc/password-form.php:19
+msgid "Retype password"
+msgstr ""
+
+#: ../templates/misc/password-form.php:23
+msgid "Change Password"
+msgstr ""
+
+#: ../templates/misc/profile-form.php:14
+msgid "Nickname"
+msgstr ""
+
+#: ../templates/misc/profile-form.php:24 ../templates/misc/register.php:22
+msgid "First name"
+msgstr ""
+
+#: ../templates/misc/profile-form.php:29 ../templates/misc/register.php:28
+msgid "Last name"
+msgstr ""
+
+#: ../templates/misc/profile-form.php:38
+msgid "Change Profile"
+msgstr ""
+
+#: ../templates/misc/register.php:11
+msgid "Please enter a valid username"
+msgstr ""
+
+#: ../templates/misc/register.php:17
+msgid "Please enter a valid e-mail address"
+msgstr ""
+
+#: ../templates/misc/register.php:23
+msgid "Please enter your first name"
+msgstr ""
+
+#: ../templates/misc/register.php:29
+msgid "Please enter your last name"
+msgstr ""
+
+#: ../templates/misc/register.php:35
+msgid "Please enter your phone"
+msgstr ""
+
+#: ../templates/misc/register.php:41 ../templates/misc/register.php:47
+msgid "Please enter a valid password"
+msgstr ""
+
+#: ../templates/misc/register.php:46
+msgid "Retype Password"
+msgstr ""
+
+#: ../templates/misc/register.php:58
+#, php-format
+msgid "I agree with <a href=\"%s\">terms & conditions</a>"
+msgstr ""
+
+#: ../templates/misc/register.php:63
+msgid "Sign Up"
+msgstr ""
+
+#: ../templates/misc/register.php:67
+msgid "Registrations are not allowed."
+msgstr ""
+
+#: ../templates/misc/transactions.php:18
+msgid "ID"
+msgstr ""
+
+#: ../templates/misc/transactions.php:19
+#: ../templates/properties/detail/section-overview.php:8
+#: ../templates/properties/sort.php:28
+msgid "Price"
+msgstr ""
+
+#: ../templates/misc/transactions.php:20
+msgid "Gateway"
+msgstr ""
+
+#: ../templates/misc/transactions.php:21
+msgid "Object"
+msgstr ""
+
+#: ../templates/misc/transactions.php:22
+msgid "Payment Type"
+msgstr ""
+
+#: ../templates/misc/transactions.php:23
+#: ../templates/widgets/properties-admin.php:193
+msgid "Date"
+msgstr ""
+
+#: ../templates/misc/transactions.php:44
+msgid "Feature property"
+msgstr ""
+
+#: ../templates/misc/transactions.php:47
+msgid "TOP property"
+msgstr ""
+
+#: ../templates/misc/transactions.php:50
+msgid "Pay per post"
+msgstr ""
+
+#: ../templates/misc/transactions.php:53
+msgid "Package"
+msgstr ""
+
+#: ../templates/misc/transactions.php:73
+msgid "No transactions found."
+msgstr ""
+
+#: ../templates/properties/box.php:68 ../templates/properties/box.php:70
+#: ../templates/properties/grid.php:33 ../templates/properties/grid.php:35
+#: ../templates/submission/list.php:160
+#: ../templates/widgets/filter-fields/featured.php:8
+msgid "Featured"
+msgstr ""
+
+#: ../templates/properties/box.php:68 ../templates/properties/box.php:72
+#: ../templates/properties/grid.php:33 ../templates/properties/grid.php:37
+#: ../templates/widgets/filter-fields/reduced.php:8
+msgid "Reduced"
+msgstr ""
+
+#: ../templates/properties/box.php:76 ../templates/properties/grid.php:41
+#: ../templates/widgets/filter-fields/sticky.php:8
+msgid "TOP"
+msgstr ""
+
+#: ../templates/properties/box.php:123 ../templates/properties/grid.php:78
+#: ../templates/properties/row.php:33 ../templates/sliders/row.php:42
+#: ../templates/submission/list.php:107
+msgid "Bath"
+msgstr ""
+
+#: ../templates/properties/box.php:128
+msgid "Browse"
+msgstr ""
+
+#: ../templates/properties/detail/section-amenities.php:10
+#: ../templates/properties/detail/section-description.php:3
+#: ../templates/properties/detail/section-overview.php:2
+msgid "Property"
+msgstr ""
+
+#: ../templates/properties/detail/section-overview.php:13
+msgid "Reference"
+msgstr ""
+
+#: ../templates/properties/detail/section-overview.php:18
+msgid "Contact name"
+msgstr ""
+
+#: ../templates/properties/detail/section-overview.php:23
+msgid "Contact phone"
+msgstr ""
+
+#: ../templates/properties/detail/section-overview.php:28
+#: ../templates/widgets/filter-fields/year-built.php:5
+#: ../templates/widgets/filter-fields/year-built.php:9
+msgid "Year built"
+msgstr ""
+
+#: ../templates/properties/detail/section-overview.php:37
+#: ../templates/widgets/filter-fields/sold.php:8
+msgid "Sold"
+msgstr ""
+
+#: ../templates/properties/detail/section-overview.php:39
+#: ../templates/widgets/properties-admin.php:98
+#: ../templates/widgets/properties-admin.php:111
+msgid "Yes"
+msgstr ""
+
+#: ../templates/properties/detail/section-overview.php:41
+#: ../templates/widgets/properties-admin.php:97
+#: ../templates/widgets/properties-admin.php:110
+msgid "No"
+msgstr ""
+
+#: ../templates/properties/detail/section-overview.php:48
+#: ../templates/widgets/filter-fields/contract.php:5
+msgid "Contract"
+msgstr ""
+
+#: ../templates/properties/detail/section-overview.php:67
+msgid "Home area"
+msgstr ""
+
+#: ../templates/properties/detail/section-overview.php:73
+msgid "Lot dimensions"
+msgstr ""
+
+#: ../templates/properties/detail/section-overview.php:80
+msgid "Lot area"
+msgstr ""
+
+#: ../templates/properties/detail/section-overview.php:86
+#: ../templates/widgets/filter-fields/material.php:5
+#: ../templates/widgets/filter-fields/material.php:13
+msgid "Material"
+msgstr ""
+
+#: ../templates/properties/grid.php:84
+msgid "More Detail &raquo;"
+msgstr ""
+
+#: ../templates/properties/row.php:32 ../templates/sliders/row.php:38
+msgid "Bed"
+msgstr ""
+
+#: ../templates/properties/sort.php:23 ../templates/properties/sort.php:25
+msgid "Sort by : "
+msgstr ""
+
+#: ../templates/properties/sort.php:27
+msgid "Sort by"
+msgstr ""
+
+#: ../templates/properties/sort.php:29 ../templates/widgets/agents-admin.php:18
+#: ../templates/widgets/agents-assigned-admin.php:12
+#: ../templates/widgets/enquire-admin.php:16
+#: ../templates/widgets/filter-admin.php:15
+#: ../templates/widgets/filter-rent-sale-admin.php:17
+#: ../templates/widgets/filter-tabbed-admin.php:15
+#: ../templates/widgets/properties-admin.php:22
+msgid "Title"
+msgstr ""
+
+#: ../templates/properties/sort.php:30 ../templates/submission/list.php:169
+msgid "Published"
+msgstr ""
+
+#: ../templates/properties/sort.php:33 ../templates/properties/sort.php:35
+msgid "Show : "
+msgstr ""
+
+#: ../templates/properties/sort.php:37
+msgid "Order"
+msgstr ""
+
+#: ../templates/properties/sort.php:38
+msgid "ASC"
+msgstr ""
+
+#: ../templates/properties/sort.php:39
+msgid "DESC"
+msgstr ""
+
+#: ../templates/sliders/box.php:44
+msgid "Bedroom"
+msgstr ""
+
+#: ../templates/sliders/box.php:51
+msgid "Bathroom"
+msgstr ""
+
+#: ../templates/sliders/flat.php:24
+msgid "View Property"
+msgstr ""
+
+#: ../templates/submission/list.php:11
+msgid "Create Property"
+msgstr ""
+
+#: ../templates/submission/list.php:39
+msgid "No image"
+msgstr ""
+
+#: ../templates/submission/list.php:129
+msgid "Make TOP"
+msgstr ""
+
+#: ../templates/submission/list.php:136
+msgid "Sticky"
+msgstr ""
+
+#: ../templates/submission/list.php:153
+msgid "Make featured"
+msgstr ""
+
+#: ../templates/submission/list.php:181
+msgid "Publish"
+msgstr ""
+
+#: ../templates/submission/list.php:205 ../templates/submission/list.php:206
+msgid "Remove"
+msgstr ""
+
+#: ../templates/submission/list.php:225
+msgid "You don't have any properties, yet. Start by creating new one."
+msgstr ""
+
+#: ../templates/submission/package-info.php:13
+msgid ""
+"Site is using packages. Before you can post property, please upgrade your "
+"package."
+msgstr ""
+
+#: ../templates/submission/package-info.php:17
+#, php-format
+msgid "You are using <strong>%s</strong> package."
+msgstr ""
+
+#: ../templates/submission/package-info.php:22
+#, php-format
+msgid "Your subscription is valid until <strong>%s</strong>."
+msgstr ""
+
+#: ../templates/submission/package-info.php:27
+msgid "You can add <strong>unlimited</strong> amount of items"
+msgstr ""
+
+#: ../templates/submission/package-info.php:29
+#, php-format
+msgid ""
+"You can not add any properties because you spent all of your available "
+"properties. Change your package. First <strong>%s</strong> items has been "
+"disabled from listing."
+msgstr ""
+
+#: ../templates/submission/package-info.php:31
+#, php-format
+msgid "You can add <strong>%s</strong> items."
+msgstr ""
+
+#: ../templates/submission/package-info.php:34
+#, php-format
+msgid ""
+"Your subscription already expired at <strong>%s</strong>. All your items has "
+"been deactivated until you pay for new subscription."
+msgstr ""
+
+#: ../templates/submission/package-info.php:43
+msgid "Payment page has been not set."
+msgstr ""
+
+#: ../templates/submission/package-info.php:52
+msgid "Select Package"
+msgstr ""
+
+#: ../templates/submission/package-info.php:65
+msgid "Upgrade"
+msgstr ""
+
+#: ../templates/submission/payment.php:19
+#, php-format
+msgid ""
+"You are going to pay <strong>%s</strong> for featuring property <strong>\"%s"
+"\"</strong>."
+msgstr ""
+
+#: ../templates/submission/payment.php:26
+#, php-format
+msgid ""
+"You are going to pay <strong>%s</strong> for TOP property <strong>\"%s\"</"
+"strong>."
+msgstr ""
+
+#: ../templates/submission/payment.php:33
+#, php-format
+msgid ""
+"You are going to pay <strong>%s</strong> for publishing property <strong>\"%s"
+"\"</strong>."
+msgstr ""
+
+#: ../templates/submission/payment.php:41
+#, php-format
+msgid ""
+"You are going to pay <strong>%s</strong> for package <strong>\"%s\"</strong>."
+msgstr ""
+
+#: ../templates/submission/payment.php:45
+msgid "Missing package."
+msgstr ""
+
+#: ../templates/submission/payment.php:50
+msgid "You are missing payment type."
+msgstr ""
+
+#: ../templates/submission/payment.php:87
+msgid "Proceed payment"
+msgstr ""
+
+#: ../templates/submission/payment.php:91
+msgid ""
+"Your submission will be manually reviewed when transfer will be completed."
+msgstr ""
+
+#: ../templates/submission/payment.php:96
+msgid "No payment gateways found."
+msgstr ""
+
+#: ../templates/submission/payment.php:104
+msgid "Back to:"
+msgstr ""
+
+#: ../templates/submission/remove-form.php:3
+msgid "You have to specify property!"
+msgstr ""
+
+#: ../templates/submission/remove-form.php:6
+#, php-format
+msgid "Are you sure you want to delete %s?"
+msgstr ""
+
+#: ../templates/submission/remove-form.php:15
+msgid "Delete"
+msgstr ""
+
+#: ../templates/submission/wire-transfer.php:10
+#, php-format
+msgid "for featuring property \"%s\""
+msgstr ""
+
+#: ../templates/submission/wire-transfer.php:12
+#, php-format
+msgid "for TOP property \"%s\""
+msgstr ""
+
+#: ../templates/submission/wire-transfer.php:14
+#, php-format
+msgid "for publishing property \"%s\""
+msgstr ""
+
+#: ../templates/submission/wire-transfer.php:16
+#, php-format
+msgid "for package \"%s\""
+msgstr ""
+
+#: ../templates/submission/wire-transfer.php:22
+msgid "Beneficiary's account number"
+msgstr ""
+
+#: ../templates/submission/wire-transfer.php:27
+msgid "Bank code (SWIFT/BIC)"
+msgstr ""
+
+#: ../templates/submission/wire-transfer.php:32
+msgid "Variable symbol"
+msgstr ""
+
+#: ../templates/submission/wire-transfer.php:37
+msgid "Information / reference"
+msgstr ""
+
+#: ../templates/submission/wire-transfer.php:44
+msgid "Beneficiary's name"
+msgstr ""
+
+#: ../templates/submission/wire-transfer.php:49
+msgid "Street / P.O.Box"
+msgstr ""
+
+#: ../templates/submission/wire-transfer.php:54
+msgid "Postcode (ZIP)"
+msgstr ""
+
+#: ../templates/submission/wire-transfer.php:59
+msgid "City"
+msgstr ""
+
+#: ../templates/submission/wire-transfer.php:64
+msgid "Country"
+msgstr ""
+
+#: ../templates/widgets/agents-admin.php:31
+#: ../templates/widgets/properties-admin.php:35
+msgid "Description"
+msgstr ""
+
+#: ../templates/widgets/agents-admin.php:43
+#: ../templates/widgets/filter-rent-sale-admin.php:72
+#: ../templates/widgets/filter-tabbed-admin.php:70
+#: ../templates/widgets/properties-admin.php:47
+#: ../templates/widgets/properties-map-admin.php:105
+msgid "Classes"
+msgstr ""
+
+#: ../templates/widgets/agents-admin.php:52
+#: ../templates/widgets/properties-admin.php:56
+msgid "Additional classes e.g. <i>fullwidth background-gray</i>"
+msgstr ""
+
+#: ../templates/widgets/agents-admin.php:59
+#: ../templates/widgets/properties-admin.php:62
+msgid "Count"
+msgstr ""
+
+#: ../templates/widgets/agents-admin.php:72
+#: ../templates/widgets/properties-admin.php:75
+msgid "Items per row"
+msgstr ""
+
+#: ../templates/widgets/agents-admin.php:89
+#: ../templates/widgets/properties-admin.php:173
+msgid "Display as"
+msgstr ""
+
+#: ../templates/widgets/agents-admin.php:94
+#: ../templates/widgets/properties-admin.php:178
+msgid "Small"
+msgstr ""
+
+#: ../templates/widgets/agents-admin.php:95
+#: ../templates/widgets/properties-admin.php:179
+msgid "Box"
+msgstr ""
+
+#: ../templates/widgets/agents-admin.php:96
+#: ../templates/widgets/properties-admin.php:180
+msgid "Row"
+msgstr ""
+
+#: ../templates/widgets/agents-admin.php:108
+#: ../templates/widgets/properties-admin.php:207
+msgid "Fullwidth"
+msgstr ""
+
+#: ../templates/widgets/agents.php:63
+msgid "No agents found."
+msgstr ""
+
+#: ../templates/widgets/enquire-admin.php:28
+msgid "Who will receive an e-mail?"
+msgstr ""
+
+#: ../templates/widgets/enquire-admin.php:40
+msgid "Site admin"
+msgstr ""
+
+#: ../templates/widgets/enquire-admin.php:53
+msgid "Property author"
+msgstr ""
+
+#: ../templates/widgets/enquire-admin.php:66
+msgid "Assigned agent"
+msgstr ""
+
+#: ../templates/widgets/enquire-admin.php:71
+msgid "If none selected, post author will receive an email by default."
+msgstr ""
+
+#: ../templates/widgets/enquire-admin.php:83
+msgid "Disable reCAPTCHA"
+msgstr ""
+
+#: ../templates/widgets/enquire.php:43
+msgid "Message"
+msgstr ""
+
+#: ../templates/widgets/enquire.php:53
+msgid "Send Message"
+msgstr ""
+
+#: ../templates/widgets/filter-admin.php:28
+#: ../templates/widgets/filter-rent-sale-admin.php:30
+#: ../templates/widgets/filter-tabbed-admin.php:28
+msgid "Button text"
+msgstr ""
+
+#: ../templates/widgets/filter-admin.php:39
+#: ../templates/widgets/filter-rent-sale-admin.php:41
+#: ../templates/widgets/filter-tabbed-admin.php:39
+msgid "Input titles"
+msgstr ""
+
+#: ../templates/widgets/filter-admin.php:50
+#: ../templates/widgets/filter-rent-sale-admin.php:52
+#: ../templates/widgets/filter-tabbed-admin.php:50
+msgid "Labels"
+msgstr ""
+
+#: ../templates/widgets/filter-admin.php:62
+#: ../templates/widgets/filter-rent-sale-admin.php:64
+#: ../templates/widgets/filter-tabbed-admin.php:62
+msgid "Placeholders"
+msgstr ""
+
+#: ../templates/widgets/filter-fields/amenity.php:5
+#: ../templates/widgets/filter-fields/amenity.php:12
+msgid "Amenity"
+msgstr ""
+
+#: ../templates/widgets/filter-fields/amenity.php:14
+msgid "All amenities"
+msgstr ""
+
+#: ../templates/widgets/filter-fields/baths.php:13
+msgid "Baths: any"
+msgstr ""
+
+#: ../templates/widgets/filter-fields/baths.php:15
+#: ../templates/widgets/filter-fields/beds.php:15
+#: ../templates/widgets/filter-fields/garages.php:16
+#: ../templates/widgets/filter-fields/rooms.php:16
+msgid "Any"
+msgstr ""
+
+#: ../templates/widgets/filter-fields/beds.php:13
+msgid "Beds: any"
+msgstr ""
+
+#: ../templates/widgets/filter-fields/contract.php:9
+msgid "All contracts"
+msgstr ""
+
+#: ../templates/widgets/filter-fields/contract.php:10
+msgid "Sale"
+msgstr ""
+
+#: ../templates/widgets/filter-fields/contract.php:11
+msgid "Rent"
+msgstr ""
+
+#: ../templates/widgets/filter-fields/garages.php:14
+msgid "Garages: any"
+msgstr ""
+
+#: ../templates/widgets/filter-fields/home-area.php:5
+#: ../templates/widgets/filter-fields/home-area.php:9
+msgid "Home area from"
+msgstr ""
+
+#: ../templates/widgets/filter-fields/home-area.php:18
+#: ../templates/widgets/filter-fields/home-area.php:22
+msgid "Home area to"
+msgstr ""
+
+#: ../templates/widgets/filter-fields/id.php:5
+#: ../templates/widgets/filter-fields/id.php:9
+msgid "Property ID"
+msgstr ""
+
+#: ../templates/widgets/filter-fields/location.php:14
+#: ../templates/widgets/filter-fields/location.php:70
+msgid "All locations"
+msgstr ""
+
+#: ../templates/widgets/filter-fields/location.php:91
+#: ../templates/widgets/filter-fields/location.php:102
+msgid "Sublocation"
+msgstr ""
+
+#: ../templates/widgets/filter-fields/location.php:104
+msgid "All sublocations"
+msgstr ""
+
+#: ../templates/widgets/filter-fields/location.php:114
+#: ../templates/widgets/filter-fields/location.php:125
+msgid "Subsublocation"
+msgstr ""
+
+#: ../templates/widgets/filter-fields/location.php:127
+msgid "All subsublocations"
+msgstr ""
+
+#: ../templates/widgets/filter-fields/lot-area.php:5
+#: ../templates/widgets/filter-fields/lot-area.php:9
+msgid "Lot area from"
+msgstr ""
+
+#: ../templates/widgets/filter-fields/lot-area.php:18
+#: ../templates/widgets/filter-fields/lot-area.php:22
+msgid "Lot area to"
+msgstr ""
+
+#: ../templates/widgets/filter-fields/material.php:15
+msgid "All materials"
+msgstr ""
+
+#: ../templates/widgets/filter-fields/price.php:5
+#: ../templates/widgets/filter-fields/price.php:9
+msgid "Price from"
+msgstr ""
+
+#: ../templates/widgets/filter-fields/price.php:17
+#: ../templates/widgets/filter-fields/price.php:21
+msgid "Price to"
+msgstr ""
+
+#: ../templates/widgets/filter-fields/property-title.php:5
+#: ../templates/widgets/filter-fields/property-title.php:9
+msgid "Property title"
+msgstr ""
+
+#: ../templates/widgets/filter-fields/property-type.php:5
+#: ../templates/widgets/filter-fields/property-type.php:16
+msgid "Property type"
+msgstr ""
+
+#: ../templates/widgets/filter-fields/property-type.php:18
+msgid "All property types"
+msgstr ""
+
+#: ../templates/widgets/filter-fields/rooms.php:14
+msgid "Rooms: any"
+msgstr ""
+
+#: ../templates/widgets/filter-fields/status.php:15
+msgid "All statuses"
+msgstr ""
+
+#: ../templates/widgets/filter-rent-sale-admin.php:81
+#: ../templates/widgets/filter-tabbed-admin.php:79
+msgid "Additional classes e.g. <i>transparent-background map-overlay</i>"
+msgstr ""
+
+#: ../templates/widgets/filter-rent-sale-admin.php:90
+msgid "Rent Fields"
+msgstr ""
+
+#: ../templates/widgets/filter-rent-sale-admin.php:126
+msgid "Sale Fields"
+msgstr ""
+
+#: ../templates/widgets/filter-rent-sale.php:33
+msgid "For Rent"
+msgstr ""
+
+#: ../templates/widgets/filter-rent-sale.php:34
+msgid "For Sale"
+msgstr ""
+
+#: ../templates/widgets/filter-tabbed-admin.php:93
+msgid "Fields"
+msgstr ""
+
+#: ../templates/widgets/properties-admin.php:92
+msgid "Show Content"
+msgstr ""
+
+#: ../templates/widgets/properties-admin.php:105
+msgid "Show Price"
+msgstr ""
+
+#: ../templates/widgets/properties-admin.php:117
+msgid "Choose attribute"
+msgstr ""
+
+#: ../templates/widgets/properties-admin.php:126
+msgid "It doesn't matter"
+msgstr ""
+
+#: ../templates/widgets/properties-admin.php:138
+msgid "Featured only"
+msgstr ""
+
+#: ../templates/widgets/properties-admin.php:151
+msgid "Reduced only"
+msgstr ""
+
+#: ../templates/widgets/properties-admin.php:164
+msgid "TOP only"
+msgstr ""
+
+#: ../templates/widgets/properties-admin.php:181
+msgid "Grid"
+msgstr ""
+
+#: ../templates/widgets/properties-admin.php:188
+msgid "Order by"
+msgstr ""
+
+#: ../templates/widgets/properties-admin.php:194
+msgid "Random"
+msgstr ""
+
+#: ../templates/widgets/properties-map-admin.php:22
+msgid "Latitude"
+msgstr ""
+
+#: ../templates/widgets/properties-map-admin.php:35
+msgid "Longitude"
+msgstr ""
+
+#: ../templates/widgets/properties-map-admin.php:49
+msgid "Zoom"
+msgstr ""
+
+#: ../templates/widgets/properties-map-admin.php:62
+msgid "Grid size"
+msgstr ""
+
+#: ../templates/widgets/properties-map-admin.php:75
+msgid "Style"
+msgstr ""
+
+#: ../templates/widgets/properties-map-admin.php:79
+msgid "Default"
+msgstr ""
+
+#: ../templates/widgets/properties-map-admin.php:92
+msgid "Height"
+msgstr ""
+
+#: ../templates/widgets/properties-map-admin.php:114
+msgid ""
+"Additional classes appended to body class and separated by , e.g. "
+"<i>transparent-header, property-map-append-top</i>"
+msgstr ""
+
+#: ../templates/widgets/properties-map-admin.php:124
+msgid "Geolocation"
+msgstr ""
+
+#: ../templates/widgets/properties.php:70
+msgid "No properties found."
+msgstr ""

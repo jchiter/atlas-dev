@@ -1,0 +1,82 @@
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://themes.ongoingthemes.com/homelist
+Data file = /home/ongoingthemes/public_html/themes.ongoingthemes.com/homelist/wp-content/uploads/2020/03/sample-data.xml
+Widget file = /home/ongoingthemes/public_html/themes.ongoingthemes.com/homelist/wp-content/uploads/2020/03/widgets.wie
+Customizer file = /home/ongoingthemes/public_html/themes.ongoingthemes.com/homelist/wp-content/uploads/2020/03/homelist-export.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Primary : 
+
+Search - No Title - Imported
+Navigation Menu - No Title - Imported
+Assigned Agents - No Title - Imported
+Categories - Categories - Imported
+Homelist Locations - Locations - Imported
+Filter - Search Properties - Imported
+Properties - Properties - Imported
+Homelist Mortgage Calculator - Calculator - Imported
+Enquire Form - Contact - Imported
+Homelist Recent Posts - Recent Posts - Imported
+Tag Cloud - Popular Tags - Imported
+
+Content Fullwidth : 
+
+Homelist Property Slider - No Title - Imported
+Homelist Property Slider - No Title - Imported
+Homelist Property Slider - No Title - Imported
+Properties Map - No Title - Imported
+Tabbed Filter - Search - Imported
+Tabbed Filter - Search - Imported
+Homelist Services - Best Real Estates - Imported
+Homelist Services - Best Real Estates - Imported
+Properties - Best Deals for Real Estate - Imported
+Properties - Latest Real Estate - Imported
+Homelist Locations - Real Estate Locations - Imported
+Properties - Featured Properties - Imported
+Properties - Latest Properties - Imported
+Homelist Facts - No Title - Imported
+Homelist Facts - No Title - Imported
+Homelist Testimonials - What Our Customers Say - Imported
+Homelist Testimonials - What Our Customers Say - Imported
+Properties - Best Deals for Real Estate - Imported
+Agents - Our Representatives - Imported
+Agencies - Our Real Estate Offices - Imported
+
+Content Left : 
+
+Properties Map - No Title - Imported
+
+Content Right : 
+
+Properties - Latest Real Estate - Imported
+
+Footer First : 
+
+Text - No Title - Imported
+Homelist Social Links - No Title - Imported
+
+Footer Second : 
+
+Homelist Locations - Locations - Imported
+
+Footer Third : 
+
+Categories - Categories - Imported
+
+Footer Fourth : 
+
+Navigation Menu - Quick Links - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!

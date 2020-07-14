@@ -1,0 +1,101 @@
+
+.header-middle h1, .header-middle h2, .header-middle h3, .header-middle h4, .header-middle h5, .header-middle h6 {
+    margin: 0;
+} 
+
+
+/*font-weight*/
+.fw-1 {
+    font-weight: 100;
+}
+.fw-3 {
+    font-weight: 300;
+}
+.fw-4 {
+    font-weight: 400;
+}
+.fw-5 {
+    font-weight: 500;
+}
+.fw-7 {
+    font-weight: 700;
+}
+.fw-9 {
+    font-weight: 900;
+}
+
+/* colors */
+.c-red {
+    color: #d82460 !important
+}
+
+.c-gray {
+    color: #444 !important
+}
+
+.bg-white {
+    background: #f7f7f7 !important
+}
+
+
+
+.navbar {
+    margin-bottom: 0;
+    border: none;
+    border-radius: 0;
+}
+
+.header-info {
+    position: relative;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.header-info:not(:last-of-type):after {
+    position: absolute;
+    content: '';
+    width: 1px;
+    height: 100%;
+    top: 0;
+    right: 0%;
+    background: #eee;
+}
+
+.hi-head,
+.hi-title {
+    font-size: 15px;
+    line-height: 25px;
+    font-weight: 500;
+}
+
+.hi-title {
+    color: #aaa;
+}
+
+.header-info .header-icon {
+    display: inline-block;
+    padding-right: 14px;
+    -webkit-transform: translateY(-5px);
+    -ms-transform: translateY(-5px);
+    -o-transform: translateY(-5px);
+    transform: translateY(-5px);
+}
+
+.header-info .header-icon:before {
+    font-size: 40px;
+    line-height: 40px;
+}
+
+
+.navbar-default .navbar-nav > li > a {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.navbar-nav > li {
+    border-left: 1px solid #fff;
+}
+
+.topbar {
+    position: relative;
+}

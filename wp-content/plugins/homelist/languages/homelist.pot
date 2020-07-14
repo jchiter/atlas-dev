@@ -1,0 +1,966 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: homelist\n"
+"POT-Creation-Date: 2019-01-29 09:04+0300\n"
+"PO-Revision-Date: 2017-10-13 10:56+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;_c;esc_attr__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../homelist.php:26
+msgid "You should first install and activate Realia plugin."
+msgstr ""
+
+#: ../homelist.php:47 ../homelist.php:49
+msgid "Services"
+msgstr ""
+
+#: ../homelist.php:48 ../homelist.php:50
+msgid "Service"
+msgstr ""
+
+#: ../homelist.php:51 ../homelist.php:86 ../homelist.php:113
+msgid "Add New"
+msgstr ""
+
+#: ../homelist.php:52
+msgid "Add New Service"
+msgstr ""
+
+#: ../homelist.php:53
+msgid "New Service"
+msgstr ""
+
+#: ../homelist.php:54
+msgid "Edit Service"
+msgstr ""
+
+#: ../homelist.php:55
+msgid "View Service"
+msgstr ""
+
+#: ../homelist.php:56
+msgid "All Services"
+msgstr ""
+
+#: ../homelist.php:57
+msgid "Search Services"
+msgstr ""
+
+#: ../homelist.php:58
+msgid "Parent Services:"
+msgstr ""
+
+#: ../homelist.php:59 ../includes/widgets/class-homelist-widget-services.php:71
+msgid "No services found."
+msgstr ""
+
+#: ../homelist.php:60
+msgid "No services found in Trash."
+msgstr ""
+
+#: ../homelist.php:65 ../homelist.php:127
+msgid "Description."
+msgstr ""
+
+#: ../homelist.php:84 ../homelist.php:96
+msgid "Testimonials"
+msgstr ""
+
+#: ../homelist.php:85
+msgid "Testimonial"
+msgstr ""
+
+#: ../homelist.php:87
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../homelist.php:88
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../homelist.php:89
+msgid "New Testimonial"
+msgstr ""
+
+#: ../homelist.php:90
+msgid "All Testimonials"
+msgstr ""
+
+#: ../homelist.php:91
+msgid "View Testimonial"
+msgstr ""
+
+#: ../homelist.php:92
+msgid "Search Testimonials"
+msgstr ""
+
+#: ../homelist.php:93
+msgid "No testimonial found"
+msgstr ""
+
+#: ../homelist.php:94
+msgid "No testimonials found in the Trash"
+msgstr ""
+
+#: ../homelist.php:109 ../homelist.php:111
+msgid "Facts"
+msgstr ""
+
+#: ../homelist.php:110 ../homelist.php:112
+msgid "Fact"
+msgstr ""
+
+#: ../homelist.php:114
+msgid "Add New Fact"
+msgstr ""
+
+#: ../homelist.php:115
+msgid "New Fact"
+msgstr ""
+
+#: ../homelist.php:116
+msgid "Edit Fact"
+msgstr ""
+
+#: ../homelist.php:117
+msgid "View Fact"
+msgstr ""
+
+#: ../homelist.php:118
+msgid "All Facts"
+msgstr ""
+
+#: ../homelist.php:119
+msgid "Search Facts"
+msgstr ""
+
+#: ../homelist.php:120
+msgid "Parent Facts:"
+msgstr ""
+
+#: ../homelist.php:121 ../includes/widgets/class-homelist-widget-facts.php:83
+msgid "No facts found."
+msgstr ""
+
+#: ../homelist.php:122
+msgid "No facts found in Trash."
+msgstr ""
+
+#: ../homelist.php:145 ../homelist.php:155
+msgid "Facilities"
+msgstr ""
+
+#: ../homelist.php:146 ../homelist.php:334
+msgid "Facility"
+msgstr ""
+
+#: ../homelist.php:147
+msgid "Search Facility"
+msgstr ""
+
+#: ../homelist.php:148
+msgid "All Facilities"
+msgstr ""
+
+#: ../homelist.php:149
+msgid "Parent Facility"
+msgstr ""
+
+#: ../homelist.php:150
+msgid "Parent Facility:"
+msgstr ""
+
+#: ../homelist.php:151
+msgid "Edit Facility"
+msgstr ""
+
+#: ../homelist.php:152
+msgid "Update Facility"
+msgstr ""
+
+#: ../homelist.php:153
+msgid "Add New Facility"
+msgstr ""
+
+#: ../homelist.php:154
+msgid "New Facility"
+msgstr ""
+
+#: ../homelist.php:162
+msgid "facility"
+msgstr ""
+
+#: ../homelist.php:169 ../homelist.php:179
+msgid "Valuations"
+msgstr ""
+
+#: ../homelist.php:170 ../homelist.php:362 ../homelist.php:403
+#: ../homelist.php:416
+msgid "Valuation"
+msgstr ""
+
+#: ../homelist.php:171
+msgid "Search Valuation"
+msgstr ""
+
+#: ../homelist.php:172
+msgid "All Valuations"
+msgstr ""
+
+#: ../homelist.php:173
+msgid "Parent Valuation"
+msgstr ""
+
+#: ../homelist.php:174
+msgid "Parent Valuation:"
+msgstr ""
+
+#: ../homelist.php:175
+msgid "Edit Valuation"
+msgstr ""
+
+#: ../homelist.php:176
+msgid "Update Valuation"
+msgstr ""
+
+#: ../homelist.php:177
+msgid "Add New Valuation"
+msgstr ""
+
+#: ../homelist.php:178
+msgid "New Valuation"
+msgstr ""
+
+#: ../homelist.php:186
+msgid "valuation"
+msgstr ""
+
+#: ../homelist.php:203
+msgid "Select Icon"
+msgstr ""
+
+#: ../homelist.php:216 ../homelist.php:725
+msgid "Icon"
+msgstr ""
+
+#: ../homelist.php:226 ../homelist.php:250
+msgid "General"
+msgstr ""
+
+#: ../homelist.php:236
+#: ../includes/widgets/class-homelist-widget-agencies.php:185
+#: ../includes/widgets/class-homelist-widget-facts.php:172
+#: ../includes/widgets/class-homelist-widget-locations.php:216
+#: ../includes/widgets/class-homelist-widget-properties.php:149
+#: ../includes/widgets/class-homelist-widget-services.php:159
+#: ../includes/widgets/class-homelist-widget-testimonials.php:191
+msgid "Count"
+msgstr ""
+
+#: ../homelist.php:237
+msgid "Please enter a number"
+msgstr ""
+
+#: ../homelist.php:258
+msgid "Author Name"
+msgstr ""
+
+#: ../homelist.php:264
+msgid "Author's Title"
+msgstr ""
+
+#: ../homelist.php:270
+msgid "Author's Company"
+msgstr ""
+
+#: ../homelist.php:280
+msgid "Add Gallery To Box"
+msgstr ""
+
+#: ../homelist.php:286
+msgid "Add To Slider"
+msgstr ""
+
+#: ../homelist.php:292
+msgid "Image for slider"
+msgstr ""
+
+#: ../homelist.php:294 ../homelist.php:301
+msgid "Use large images which has at least 1920px width and 1080px height."
+msgstr ""
+
+#: ../homelist.php:299
+msgid "Header Background Image"
+msgstr ""
+
+#: ../homelist.php:307
+msgid "Agent details"
+msgstr ""
+
+#: ../homelist.php:316 ../homelist.php:389
+#: ../includes/widgets/class-homelist-widget-agencies.php:144
+#: ../includes/widgets/class-homelist-widget-calculator.php:121
+#: ../includes/widgets/class-homelist-widget-facts.php:131
+#: ../includes/widgets/class-homelist-widget-locations.php:175
+#: ../includes/widgets/class-homelist-widget-popular-posts.php:133
+#: ../includes/widgets/class-homelist-widget-properties.php:109
+#: ../includes/widgets/class-homelist-widget-recent-posts.php:138
+#: ../includes/widgets/class-homelist-widget-services.php:118
+#: ../includes/widgets/class-homelist-widget-social-links.php:97
+#: ../includes/widgets/class-homelist-widget-testimonials.php:150
+msgid "Title"
+msgstr ""
+
+#: ../homelist.php:327 ../homelist.php:444
+msgid "Public facilities"
+msgstr ""
+
+#: ../homelist.php:347 ../homelist.php:377 ../homelist.php:429
+#: ../homelist.php:471
+msgid "Value"
+msgstr ""
+
+#: ../homelist.php:348
+msgid "For example: 3 min,  20 km"
+msgstr ""
+
+#: ../homelist.php:355
+msgid "Land Valuation"
+msgstr ""
+
+#: ../homelist.php:394
+msgid "Please enter the title of your property"
+msgstr ""
+
+#: ../homelist.php:457
+msgid "Key"
+msgstr ""
+
+#: ../homelist.php:517
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: ../homelist.php:520
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: ../homelist.php:527 ../homelist.php:532 ../homelist.php:536
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: ../homelist.php:566
+msgid "Instagram Image"
+msgstr ""
+
+#: ../homelist.php:598
+msgid "Instagram did not return any images."
+msgstr ""
+
+#: ../homelist.php:634
+msgid " View"
+msgstr ""
+
+#: ../homelist.php:636
+msgid " Views"
+msgstr ""
+
+#: ../homelist.php:689 ../homelist.php:708 ../homelist.php:747
+msgid "Image"
+msgstr ""
+
+#: ../homelist.php:691 ../homelist.php:711
+msgid "Upload Image"
+msgstr ""
+
+#: ../homelist.php:692
+msgid "Upload a image"
+msgstr ""
+
+#: ../homelist.php:712 ../homelist.php:755
+msgid "Enter a value for this field"
+msgstr ""
+
+#: ../homelist.php:732
+msgid "Select an icon"
+msgstr ""
+
+#: ../homelist.php:854
+msgid "Name"
+msgstr ""
+
+#: ../homelist.php:855
+msgid "Email"
+msgstr ""
+
+#: ../homelist.php:856
+msgid "Subject"
+msgstr ""
+
+#: ../homelist.php:857
+msgid "Message"
+msgstr ""
+
+#: ../homelist.php:858
+#, php-format
+msgid "Enter number %s"
+msgstr ""
+
+#: ../homelist.php:859
+msgid "Submit"
+msgstr ""
+
+#: ../homelist.php:860 ../homelist.php:861
+msgid "Please enter at least 2 characters"
+msgstr ""
+
+#: ../homelist.php:862
+msgid "Please enter at least 10 characters"
+msgstr ""
+
+#: ../homelist.php:863
+msgid "Please enter the correct number"
+msgstr ""
+
+#: ../homelist.php:864
+msgid "Please enter a valid email"
+msgstr ""
+
+#: ../homelist.php:865
+msgid "Thank you! You will receive a response as soon as possible."
+msgstr ""
+
+#: ../homelist.php:866
+msgid "Error! Could not send form. This might be a server issue."
+msgstr ""
+
+#: ../homelist.php:973
+#, php-format
+msgid "IP: %s"
+msgstr ""
+
+#: ../homelist.php:996
+msgid "Enter your name"
+msgstr ""
+
+#: ../homelist.php:1000
+msgid "Enter your email"
+msgstr ""
+
+#: ../homelist.php:1004
+msgid "Enter your subject"
+msgstr ""
+
+#: ../homelist.php:1008
+msgid "Enter captcha"
+msgstr ""
+
+#: ../homelist.php:1011
+msgid "Enter your firstname"
+msgstr ""
+
+#: ../homelist.php:1013
+msgid "Enter your lastname"
+msgstr ""
+
+#: ../homelist.php:1016
+msgid "Enter your message"
+msgstr ""
+
+#: ../includes/class-homelist-shortcodes.php:67
+msgid "Previous page"
+msgstr ""
+
+#: ../includes/class-homelist-shortcodes.php:68
+msgid "Next page"
+msgstr ""
+
+#: ../includes/class-homelist-shortcodes.php:69
+msgid "Page"
+msgstr ""
+
+#: ../includes/class-homelist-shortcodes.php:74
+msgid "You don't have any favorite properties, yet."
+msgstr ""
+
+#: ../includes/customizations/class-homelist-customizations-contact.php:27
+msgid "Homelist Contact Us"
+msgstr ""
+
+#: ../includes/customizations/class-homelist-customizations-contact.php:39
+msgid "Phone 1"
+msgstr ""
+
+#: ../includes/customizations/class-homelist-customizations-contact.php:52
+msgid "Phone 2"
+msgstr ""
+
+#: ../includes/customizations/class-homelist-customizations-contact.php:65
+msgid "E-Mail 1"
+msgstr ""
+
+#: ../includes/customizations/class-homelist-customizations-contact.php:79
+msgid "E-Mail 2"
+msgstr ""
+
+#: ../includes/customizations/class-homelist-customizations-contact.php:93
+msgid "Address 1"
+msgstr ""
+
+#: ../includes/customizations/class-homelist-customizations-contact.php:106
+msgid "Address 2"
+msgstr ""
+
+#: ../includes/customizations/class-homelist-customizations-contact.php:119
+msgid "Opening Hours"
+msgstr ""
+
+#: ../includes/customizations/class-homelist-customizations-contact.php:132
+msgid "Google Map Key"
+msgstr ""
+
+#: ../includes/customizations/class-homelist-customizations-contact.php:145
+msgid "Latitude"
+msgstr ""
+
+#: ../includes/customizations/class-homelist-customizations-contact.php:158
+msgid "Longitude"
+msgstr ""
+
+#: ../includes/customizations/class-homelist-customizations-contact.php:171
+msgid "Zoom"
+msgstr ""
+
+#: ../includes/customizations/class-homelist-customizations-contact.php:184
+msgid "Height"
+msgstr ""
+
+#: ../includes/customizations/class-homelist-customizations-contact.php:198
+msgid "Contact Title Text"
+msgstr ""
+
+#: ../includes/customizations/class-homelist-customizations-general.php:35
+msgid "Show header contact info"
+msgstr ""
+
+#: ../includes/customizations/class-homelist-customizations-general.php:50
+msgid "Blog Style"
+msgstr ""
+
+#: ../includes/customizations/class-homelist-customizations-general.php:54
+msgid "Blog Fullwidth"
+msgstr ""
+
+#: ../includes/customizations/class-homelist-customizations-general.php:55
+msgid "Blog Grid"
+msgstr ""
+
+#: ../includes/customizations/class-homelist-customizations-general.php:56
+msgid "Blog Grid Left Sidebar"
+msgstr ""
+
+#: ../includes/customizations/class-homelist-customizations-general.php:57
+msgid "Blog Grid Right Sidebar"
+msgstr ""
+
+#: ../includes/customizations/class-homelist-customizations-general.php:58
+msgid "Blog Left Sidebar"
+msgstr ""
+
+#: ../includes/customizations/class-homelist-customizations-general.php:59
+msgid "Blog Right Sidebar"
+msgstr ""
+
+#: ../includes/customizations/class-homelist-customizations-social-links.php:27
+msgid "Homelist Social Networks"
+msgstr ""
+
+#: ../includes/customizations/class-homelist-customizations-social-links.php:41
+msgid "Facebook URL"
+msgstr ""
+
+#: ../includes/customizations/class-homelist-customizations-social-links.php:56
+msgid "Twitter URL"
+msgstr ""
+
+#: ../includes/customizations/class-homelist-customizations-social-links.php:71
+msgid "Google Plus URL"
+msgstr ""
+
+#: ../includes/customizations/class-homelist-customizations-social-links.php:86
+msgid "Linkedin URL"
+msgstr ""
+
+#: ../includes/customizations/class-homelist-customizations-social-links.php:101
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../includes/customizations/class-homelist-customizations-social-links.php:116
+msgid "Youtube URL"
+msgstr ""
+
+#: ../includes/customizations/class-homelist-customizations-social-links.php:130
+msgid "Instagram URL"
+msgstr ""
+
+#: ../includes/post-like/class-homelist-like-it.php:130
+msgid "Love It"
+msgstr ""
+
+#: ../includes/post-like/class-homelist-like-it.php:131
+msgid "You have liked this"
+msgstr ""
+
+#: ../includes/post-like/class-homelist-like-it.php:158
+msgid "Add to Favorite"
+msgstr ""
+
+#: ../includes/post-like/class-homelist-like-it.php:161
+msgid "Remove From Favorites"
+msgstr ""
+
+#: ../includes/post-like/class-homelist-like-it.php:185
+msgid "This has been successfully added to your favorite list."
+msgstr ""
+
+#: ../includes/post-like/class-homelist-like-it.php:186
+msgid "This has been successfully removed from your favorite list."
+msgstr ""
+
+#: ../includes/post-like/class-homelist-like-it.php:187
+msgid "You have already liked this item."
+msgstr ""
+
+#: ../includes/post-like/class-homelist-like-it.php:188
+msgid "Sorry, there was a problem processing your request."
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-agencies.php:20
+msgid "Agencies"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-agencies.php:22
+msgid "Displays agencies in multiple ways."
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-agencies.php:92
+msgid "No agents found."
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-agencies.php:157
+#: ../includes/widgets/class-homelist-widget-calculator.php:134
+#: ../includes/widgets/class-homelist-widget-facts.php:144
+#: ../includes/widgets/class-homelist-widget-locations.php:188
+#: ../includes/widgets/class-homelist-widget-popular-posts.php:146
+#: ../includes/widgets/class-homelist-widget-properties.php:122
+#: ../includes/widgets/class-homelist-widget-recent-posts.php:151
+#: ../includes/widgets/class-homelist-widget-services.php:131
+#: ../includes/widgets/class-homelist-widget-social-links.php:110
+#: ../includes/widgets/class-homelist-widget-testimonials.php:163
+msgid "Description"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-agencies.php:169
+#: ../includes/widgets/class-homelist-widget-calculator.php:146
+#: ../includes/widgets/class-homelist-widget-facts.php:156
+#: ../includes/widgets/class-homelist-widget-locations.php:200
+#: ../includes/widgets/class-homelist-widget-popular-posts.php:158
+#: ../includes/widgets/class-homelist-widget-properties.php:134
+#: ../includes/widgets/class-homelist-widget-property-slider.php:175
+#: ../includes/widgets/class-homelist-widget-recent-posts.php:163
+#: ../includes/widgets/class-homelist-widget-services.php:143
+#: ../includes/widgets/class-homelist-widget-social-links.php:122
+#: ../includes/widgets/class-homelist-widget-testimonials.php:175
+msgid "Classes"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-agencies.php:178
+#: ../includes/widgets/class-homelist-widget-calculator.php:155
+#: ../includes/widgets/class-homelist-widget-facts.php:165
+#: ../includes/widgets/class-homelist-widget-locations.php:209
+#: ../includes/widgets/class-homelist-widget-popular-posts.php:167
+#: ../includes/widgets/class-homelist-widget-properties.php:143
+#: ../includes/widgets/class-homelist-widget-recent-posts.php:172
+#: ../includes/widgets/class-homelist-widget-services.php:152
+#: ../includes/widgets/class-homelist-widget-social-links.php:131
+#: ../includes/widgets/class-homelist-widget-testimonials.php:184
+msgid "Additional classes e.g. <i>fullwidth background-gray</i>"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-agencies.php:198
+#: ../includes/widgets/class-homelist-widget-facts.php:185
+#: ../includes/widgets/class-homelist-widget-locations.php:229
+#: ../includes/widgets/class-homelist-widget-properties.php:162
+#: ../includes/widgets/class-homelist-widget-services.php:172
+#: ../includes/widgets/class-homelist-widget-testimonials.php:204
+msgid "Items per row"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-agencies.php:215
+#: ../includes/widgets/class-homelist-widget-facts.php:203
+#: ../includes/widgets/class-homelist-widget-locations.php:244
+#: ../includes/widgets/class-homelist-widget-properties.php:234
+#: ../includes/widgets/class-homelist-widget-services.php:189
+#: ../includes/widgets/class-homelist-widget-testimonials.php:221
+msgid "Display as"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-agencies.php:220
+#: ../includes/widgets/class-homelist-widget-properties.php:239
+msgid "Small"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-agencies.php:221
+#: ../includes/widgets/class-homelist-widget-facts.php:209
+#: ../includes/widgets/class-homelist-widget-locations.php:249
+#: ../includes/widgets/class-homelist-widget-properties.php:240
+msgid "Box"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-agencies.php:222
+#: ../includes/widgets/class-homelist-widget-facts.php:210
+#: ../includes/widgets/class-homelist-widget-locations.php:250
+#: ../includes/widgets/class-homelist-widget-properties.php:241
+msgid "Row"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-calculator.php:17
+msgid "Homelist Mortgage Calculator"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-calculator.php:19
+msgid "Displays mortgage calculator."
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-calculator.php:60
+msgid "Sale Price"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-calculator.php:65
+msgid "Down Payment"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-calculator.php:70
+msgid "Loan Term (Years)"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-calculator.php:75
+msgid "Interest Rate"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-calculator.php:79
+msgid "Calculate"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-calculator.php:80
+msgid "Monthly Payment:"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-facts.php:17
+msgid "Homelist Facts"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-facts.php:19
+msgid "Displays facts in multiple ways."
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-facts.php:208
+msgid "Flat"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-locations.php:17
+msgid "Homelist Locations"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-locations.php:19
+msgid "Displays locations in multiple ways."
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-locations.php:100
+msgid "No"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-locations.php:101
+msgid "listings"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-locations.php:263
+msgid "Fullwidth"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-popular-posts.php:17
+msgid "Homelist Popular Posts"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-popular-posts.php:19
+msgid "Displays popular posts."
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-properties.php:17
+msgid "Homelist Properties"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-properties.php:19
+msgid "Displays properties in multiple ways."
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-properties.php:178
+msgid "Choose attribute"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-properties.php:187
+msgid "It doesn't matter"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-properties.php:199
+msgid "Featured only"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-properties.php:212
+msgid "Reduced only"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-properties.php:225
+msgid "TOP only"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-properties.php:248
+msgid "Order by"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-properties.php:253
+msgid "Date"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-properties.php:254
+msgid "Random"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-property-slider.php:17
+msgid "Homelist Property Slider"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-property-slider.php:19
+msgid "Displays properties in slider"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-property-slider.php:126
+msgid "Previous"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-property-slider.php:131
+msgid "Next"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-property-slider.php:184
+msgid ""
+"Additional classes appended to body class and separated by , e.g. "
+"<i>transparent-header, property-slider-append-top</i>"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-property-slider.php:190
+msgid "Container height"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-property-slider.php:199
+msgid "Default value 500px."
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-property-slider.php:208
+msgid "Thumbnail size"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-property-slider.php:222
+msgid "Style - 1"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-property-slider.php:222
+msgid "Style - 2"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-property-slider.php:222
+msgid "Style - 3"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-property-slider.php:227
+msgid "Templates"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-property-slider.php:249
+msgid "Show arrows"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-property-slider.php:262
+msgid "Disable dots"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-property-slider.php:275
+msgid "Autoplay"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-property-slider.php:282
+msgid "Autoplay timeout"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-property-slider.php:291
+msgid "Default value 2000."
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-recent-posts.php:17
+msgid "Homelist Recent Posts"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-recent-posts.php:19
+#: ../includes/widgets/class-homelist-widget-social-links.php:19
+msgid "Displays social links icon."
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-services.php:17
+msgid "Homelist Services"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-services.php:19
+msgid "Displays services in multiple ways."
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-services.php:194
+#: ../includes/widgets/class-homelist-widget-testimonials.php:226
+msgid "Style 1"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-services.php:195
+#: ../includes/widgets/class-homelist-widget-testimonials.php:227
+msgid "Style 2"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-social-links.php:17
+msgid "Homelist Social Links"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-testimonials.php:17
+msgid "Homelist Testimonials"
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-testimonials.php:19
+msgid "Displays testimonials in multiple ways."
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-testimonials.php:102
+msgid "No testimonials found."
+msgstr ""
+
+#: ../includes/widgets/class-homelist-widget-testimonials.php:228
+msgid "Style 3"
+msgstr ""

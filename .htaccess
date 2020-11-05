@@ -5,11 +5,11 @@
 # Сделанные вручную изменения между этими маркерами будут перезаписаны.
 <IfModule mod_rewrite.c>
 RewriteEngine On
-RewriteBase /
+RewriteBase /atlas-dev/
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /index.php [L]
+RewriteRule . /atlas-dev/index.php [L]
 </IfModule>
 
 # END WordPress

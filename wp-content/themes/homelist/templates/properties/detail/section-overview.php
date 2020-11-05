@@ -1,3 +1,6 @@
+<?
+echo phpinfo();
+?>
 <div class="property-content">
     <?php if ( ! empty( $section_title ) ): ?><h2><?php echo esc_html__( 'Property', 'homelist' ); ?> <?php echo esc_attr( $section_title ); ?></h2><?php endif; ?>
 

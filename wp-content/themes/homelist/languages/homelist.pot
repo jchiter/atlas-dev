@@ -708,7 +708,7 @@ msgstr ""
 
 #: ../functions.php:557 ../header.php:113 ../templates/misc/breadcrumb.php:3
 #: ../templates/misc/breadcrumb.php:6
-msgid "Home"
+msgid "Home1"
 msgstr ""
 
 #: ../functions.php:573
